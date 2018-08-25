@@ -22,10 +22,7 @@ function dec(n) {
   return n-- 
 }
 
-function makeInt(n) {
-  return a.toString()  
-}
+// function makeInt(n) {
+//  return a.toString()  
+//}
 
-function divide(a, b) {
-  return a / b 
-}
