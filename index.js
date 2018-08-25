@@ -23,7 +23,7 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  return  
+  return a.toString()  
 }
 
 function divide(a, b) {
